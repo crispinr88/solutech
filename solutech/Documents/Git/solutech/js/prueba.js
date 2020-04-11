@@ -1,0 +1,1 @@
+alert("si funcina 2");
