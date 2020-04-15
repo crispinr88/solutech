@@ -1,0 +1,11 @@
+commit 8ce66e3f8792960b3f9dced0bc9a8d302f00aa99
+Author: cristofer <cristian12354@hotmail.com>
+Date:   Sat Apr 11 18:31:01 2020 -0500
+
+    se genera archivo .js con el cual estamos disparando un alert
+
+commit c8c181a1b5aa032f371461fed593f549e6d39dfd
+Author: cristofer <cristian12354@hotmail.com>
+Date:   Wed Apr 8 20:11:48 2020 -0500
+
+    iniciamos
